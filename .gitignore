@@ -1,0 +1,16 @@
+# vendors
+/vendor
+/node_modules
+
+#tests
+tests/_output/*
+tests/_support/_generated
+
+# compiles files
+frontend/**/*.js
+frontend/**/*.js.map
+
+# dist
+web/dist
+
+runtime/*

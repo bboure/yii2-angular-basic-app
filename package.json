@@ -1,0 +1,30 @@
+{
+  "name": "yii-angular-basic-app",
+  "version": "1.0.0",
+  "description": "Yii 2 Basic Project Template",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/common": "^2.4.1",
+    "@angular/compiler": "^2.4.1",
+    "@angular/core": "^2.4.0",
+    "@angular/http": "^2.4.1",
+    "@angular/platform-browser": "^2.4.1",
+    "@angular/platform-browser-dynamic": "^2.4.1",
+    "@angular/router": "^3.4.1",
+    "@types/node": "^6.0.55",
+    "angular2-template-loader": "^0.6.0",
+    "awesome-typescript-loader": "^2.2.4",
+    "core-js": "^2.4.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "html-loader": "^0.4.4",
+    "html-webpack-plugin": "^2.25.0",
+    "path": "^0.12.7",
+    "rxjs": "^5.0.1",
+    "typescript": "~2.0.10",
+    "webpack": "^1.14.0",
+    "webpack-merge": "^2.0.0",
+    "zone.js": "^0.7.4"
+  }
+}
